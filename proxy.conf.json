@@ -1,0 +1,8 @@
+{
+    "/SpeechHub": {
+      "target": "https://localhost:7014",
+      "secure": false,
+      "changeOrigin": true,
+      "ws": true
+    }
+  }
